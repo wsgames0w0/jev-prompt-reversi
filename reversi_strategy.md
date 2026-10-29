@@ -1311,7 +1311,7 @@ JevClonePlayer : Wins = 44, MonteCarloPlayer : Wins = 6
 
 |対局相手|対局結果|棋譜ファイル|
 |:---:|:---:|:---:|
-|学生|6勝1敗1引(75%)|evaluate_students.txt|
+|学生|7勝2敗1引(70%)|evaluate_students.txt|
 |自分|0勝10敗0引(0%)|evaluate_me.txt|
 
 - 謝辞
