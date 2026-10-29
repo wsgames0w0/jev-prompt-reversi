@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary simulation outputs
+reversi_history.txt
+
+# Private evaluation files (Excluded for privacy protection)
+evaluate_students.txt
+evaluate_me.txt
+
+# Environment & IDE
+.venv/
+venv/
+ENV/
+.env
+.vscode/
+.idea/
+*.swp
